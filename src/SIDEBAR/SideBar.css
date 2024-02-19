@@ -1,0 +1,27 @@
+.sidebar{
+    width: 15%;
+    background-color: rgb(24,24,27);
+    color: white;
+    padding: 10px;
+    height:calc(100vh - 125px) ;
+    padding: 10px;
+}
+
+.sidebar ul {
+    list-style: none;
+}
+
+.sidebar li a {
+    display: block;
+    color: white;
+    padding: 7px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    transition: 0.5s;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sidebar li a:hover {
+    color: var(--colorhover);
+}
