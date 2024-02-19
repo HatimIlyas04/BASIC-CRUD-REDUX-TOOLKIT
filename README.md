@@ -3,7 +3,7 @@
 
 Welcome to CRUD-REDUX-TOOLKIT, a powerful CRUD application built with React and Redux Toolkit. 🚀
 
-![CRUD-REDUX-TOOLKIT]([https://your-image-url.com](https://codevoweb.com/wp-content/uploads/2022/12/Build-a-CRUD-App-with-React.js-and-Redux-Toolkit.webp))
+![CRUD-REDUX-TOOLKIT](https://codevoweb.com/wp-content/uploads/2022/12/Build-a-CRUD-App-with-React.js-and-Redux-Toolkit.webp)
 
 ## Features
 
