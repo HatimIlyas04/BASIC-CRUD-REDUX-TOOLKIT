@@ -3,7 +3,7 @@
 
 Welcome to CRUD-REDUX-TOOLKIT, a powerful CRUD application built with React and Redux Toolkit. 🚀
 
-![CRUD-REDUX-TOOLKIT](https://your-image-url.com)
+![CRUD-REDUX-TOOLKIT]([https://your-image-url.com](https://codevoweb.com/wp-content/uploads/2022/12/Build-a-CRUD-App-with-React.js-and-Redux-Toolkit.webp))
 
 ## Features
 
@@ -46,38 +46,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For any inquiries or support, feel free to reach out to us at your-email@example.com. 📧
 
-<style>
-/* Add your CSS styles here */
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f7f7f7;
-}
 
-.container {
-  max-width: 800px;
-  margin: auto;
-  padding: 20px;
-  background-color: #fff;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-h1 {
-  color: #333;
-  text-align: center;
-}
-
-h2 {
-  color: #555;
-}
-
-ul {
-  list-style-type: none;
-}
-
-p {
-  color: #666;
-}
-
-/* Add more styles as needed */
-</style>
